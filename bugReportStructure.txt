@@ -1,0 +1,9 @@
+Bug ID. Bug summary
+Project, version
+Severity, priority
+Status
+Environment
+Steps to reproduce
+Result
+Expected result
+Attachment(s)
